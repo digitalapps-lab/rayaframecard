@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.740b2108.css",
-    "main.js": "./static/js/main.3c515aaa.js",
-    "static/js/453.85a9aaf5.chunk.js": "./static/js/453.85a9aaf5.chunk.js",
-    "index.html": "./index.html",
-    "main.740b2108.css.map": "./static/css/main.740b2108.css.map",
-    "main.3c515aaa.js.map": "./static/js/main.3c515aaa.js.map",
-    "453.85a9aaf5.chunk.js.map": "./static/js/453.85a9aaf5.chunk.js.map"
+    "main.css": "/rayaframecard/static/css/main.740b2108.css",
+    "main.js": "/rayaframecard/static/js/main.e4b0b28c.js",
+    "static/js/453.85a9aaf5.chunk.js": "/rayaframecard/static/js/453.85a9aaf5.chunk.js",
+    "index.html": "/rayaframecard/index.html",
+    "main.740b2108.css.map": "/rayaframecard/static/css/main.740b2108.css.map",
+    "main.e4b0b28c.js.map": "/rayaframecard/static/js/main.e4b0b28c.js.map",
+    "453.85a9aaf5.chunk.js.map": "/rayaframecard/static/js/453.85a9aaf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.740b2108.css",
-    "static/js/main.3c515aaa.js"
+    "static/js/main.e4b0b28c.js"
   ]
 }
